@@ -14,7 +14,7 @@ The project is developed using Python and its powerful libraries: Numpy, Scipy, 
 
 Clone this repository to get started:
 ```
-git clone [repository URL]
+git clone https://github.com/MobinEzzati/N-queens-problem.git
 
 ```
 Navigate to the project directory and open index.html in your browser to launch the application. Follow the on-screen instructions to select the board size and start the visualization.
